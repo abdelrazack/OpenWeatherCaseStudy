@@ -1,4 +1,4 @@
-Note: While using the shared API, I have recieved ( invalid API), for the purpose of this study I have created new account in openweathermap and received an API through an email.
+Note: While using the shared API, I have received ( invalid API), for the purpose of this study I have created new account in openweathermap and received an API through an email.
 
 Pre-requisites:
 * Python (Anaconda 3 been used in this case).
